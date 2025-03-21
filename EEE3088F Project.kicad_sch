@@ -1516,6 +1516,16 @@
 		)
 		(uuid "a3a2a8c9-4f42-4fc5-8f15-ce854ce51a7e")
 	)
+	(label "my_label"
+		(at 80.01 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a43c81b7-e174-4c2a-9a82-8e8b1bfc900d")
+	)
 	(label "MOTOR1_CTRL1"
 		(at 160.02 100.33 270)
 		(effects
