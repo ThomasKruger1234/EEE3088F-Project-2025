@@ -1,4 +1,11 @@
-24735605853036833
+24740834297267417
+12402012E212A
+12402012E212A
+
+
+0
+16
+16
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91195,6 +91202,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMA_L4.3-W2.6-LS5.2-RD
+SMA_L4.3-W2.6-LS5.2-RD
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92868,6 +92882,13 @@ Logo WEEE
 0
 0
 0
+TYPE-C16PIN__
+USB-C-SMD_TYPE-C16PIN
+
+
+0
+16
+16
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
