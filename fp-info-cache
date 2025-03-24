@@ -1,4 +1,4 @@
-24740834297267417
+24746062668462997
 12402012E212A
 12402012E212A
 
@@ -55236,6 +55236,27 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom Footprints
+SMA_L4.3-W2.6-LS5.2-RD
+
+
+0
+2
+2
+Custom Footprints
+SW-TH_5P-P4.70_SS-12D11-G050
+
+
+0
+5
+5
+Custom Footprints
+USB-C-SMD_TYPE-C16PIN
+
+
+0
+16
+16
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
