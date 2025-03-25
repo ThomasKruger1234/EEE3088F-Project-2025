@@ -1,4 +1,11 @@
-24742577098261553
+24756520050494336
+12402012E212A
+12402012E212A
+
+
+0
+16
+16
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55230,6 +55237,20 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 Custom Footprints
+ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+
+
+0
+9
+9
+Custom Footprints
+ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP
+
+
+0
+11
+11
+Custom Footprints
 MSOP-8_L3.0-W3.0-P0.65-LS4.9-BL-EP1.8
 
 
@@ -55244,6 +55265,20 @@ SMA_L4.3-W2.6-LS5.2-RD
 2
 2
 Custom Footprints
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
+Custom Footprints
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+
+
+0
+6
+6
+Custom Footprints
 SW-TH_5P-P4.70_SS-12D11-G050
 
 
@@ -55257,6 +55292,13 @@ USB-C-SMD_TYPE-C16PIN
 0
 16
 16
+Custom Footprints
+WSON-8_L2.0-W2.0-P0.50-TL-EP
+
+
+0
+9
+9
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -91223,6 +91265,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMA_L4.3-W2.6-LS5.2-RD
+SMA_L4.3-W2.6-LS5.2-RD
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92896,6 +92945,13 @@ Logo WEEE
 0
 0
 0
+TYPE-C16PIN__
+USB-C-SMD_TYPE-C16PIN
+
+
+0
+16
+16
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
