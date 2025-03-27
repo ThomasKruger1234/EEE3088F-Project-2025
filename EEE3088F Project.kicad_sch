@@ -6025,6 +6025,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "1\n"
+		(exclude_from_sim no)
+		(at 185.928 183.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "019dd828-4797-4263-9ec5-6ff23e734214")
+	)
 	(text "Motor control\n"
 		(exclude_from_sim no)
 		(at 20.32 141.732 0)
@@ -6034,6 +6044,16 @@
 			)
 		)
 		(uuid "05786812-42e6-43f5-ba24-d9782846c7c9")
+	)
+	(text "27/03/2025\n"
+		(exclude_from_sim no)
+		(at 212.344 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0ae53b14-c524-4411-ba16-71033c62e3e2")
 	)
 	(text "External Load Switching\n"
 		(exclude_from_sim no)
@@ -6045,9 +6065,19 @@
 		)
 		(uuid "1b14c1a8-64d3-4fed-9f0f-e96784fa2a11")
 	)
+	(text "V1.0\n"
+		(exclude_from_sim no)
+		(at 270.51 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "268c51ac-1947-44c2-936f-c139a26235c9")
+	)
 	(text "USBC 9V"
 		(exclude_from_sim no)
-		(at 140.462 61.976 0)
+		(at 140.716 13.716 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6057,7 +6087,7 @@
 	)
 	(text "Battery Charging"
 		(exclude_from_sim no)
-		(at 21.336 78.232 0)
+		(at 35.56 13.716 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6085,6 +6115,26 @@
 		)
 		(uuid "5f54f2d4-8a01-4823-8cc2-07e2aedde6e9")
 	)
+	(text "EEE3088F Project 2025\n"
+		(exclude_from_sim no)
+		(at 197.612 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6cb04c4d-23a2-43d3-9273-24e495ba7acc")
+	)
+	(text "1\n"
+		(exclude_from_sim no)
+		(at 188.214 183.134 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "87a9c777-6777-4541-9da2-31b030f66d2f")
+	)
 	(text "Motherboard Connection\n"
 		(exclude_from_sim no)
 		(at 70.866 82.55 0)
@@ -6095,6 +6145,16 @@
 		)
 		(uuid "8f10e177-2ec1-43d9-969d-52c8c6b90677")
 	)
+	(text "Designed by Thomas Kruger and Chris Whittaker\n"
+		(exclude_from_sim no)
+		(at 202.184 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "98fcfb4f-221f-475b-bfcb-78500b491609")
+	)
 	(text "Current Sensing Circuit\n"
 		(exclude_from_sim no)
 		(at 189.23 123.698 0)
@@ -6104,6 +6164,17 @@
 			)
 		)
 		(uuid "b3a31e78-784c-486f-a504-060790baaaf6")
+	)
+	(text "This PCB design serves as a power distribution board for a micromouse robot.\nThe board connects to a single cell LiPo battery and provides power to the motherboard,\nmotors and peripherals.\n\nThis design was created in fullfilment of the project requirements for EEE3088F (UCT, 2025)"
+		(exclude_from_sim no)
+		(at 225.044 172.466 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(href "#1")
+		)
+		(uuid "cb096e4e-5e30-4ef2-9ac1-1e0c76e0b2ae")
 	)
 	(junction
 		(at 262.89 104.14)
@@ -17349,7 +17420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c88402f1-a29b-4562-bc3d-f963198e61c3")
-		(property "Reference" "M3BC1"
+		(property "Reference" "BCM3_JP1"
 			(at 109.22 149.86 0)
 			(effects
 				(font
@@ -17402,7 +17473,7 @@
 		(instances
 			(project ""
 				(path "/bbd0b894-fd60-489b-a5d2-e477407ae42a"
-					(reference "M3BC1")
+					(reference "BCM3_JP1")
 					(unit 1)
 				)
 			)
